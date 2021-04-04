@@ -132,7 +132,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
-		color: #3f3e3e;
+		/* color: #3f3e3e; */
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1793,6 +1793,11 @@ input, select, textarea {
 
 	header.major h2 {
 		font-size: 2em;
+	}
+
+	p 
+	{
+		color: #3f3e3e;
 	}
 
 /* Form */
